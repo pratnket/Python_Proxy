@@ -1,3 +1,5 @@
+![image](https://github.com/pratnket/Python_Proxy/blob/master/Preview.png)
+
 作者:lucas(網路暱稱:pratnket)
 
 requests 模擬合法請求
